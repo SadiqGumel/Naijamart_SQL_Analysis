@@ -8,6 +8,27 @@ This repository uses structured SQL operations (`JOINs`, `aggregations`, `GROUP 
 *   **Orders**: Transaction status details and logging timelines.
 *   **Products**: Multi-category inventory profiles.
 *   **Order Items**: Itemized break-downs per checkout instance.
+### Query Results & Verification
+
+#### Q1 — Latest 5 Registered Customers
+
+#### Q2 — Top 5 Most Expensive Products
+
+#### Q3 — Total Orders by Order Status
+
+#### Q4 — Average Price by Category
+
+#### Q5 — Comprehensive Order-to-Customer Mapping
+
+#### Q6 — Top Spenders Ranking (Excluding Cancelled Orders)
+
+#### Q7 — Dormant Accounts (Customers with Zero Orders)
+
+#### Q8 — Unsold Product Inventory Tracking
+
+#### Q9 — Trend Identification (Monthly Sales Matrix)
+
+#### Q10 — Category Performance Rank (Window Functions)
 
 ---
 
