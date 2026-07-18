@@ -1,0 +1,18 @@
+product_id,product_name,category,unit_price,stock_quantity
+1,Infinix Note 40,Electronics,285000.00,25
+2,Samsung Galaxy A25,Electronics,340000.00,18
+3,Oraimo FreePods 4,Electronics,28500.00,60
+4,HP Laptop 15s,Electronics,650000.00,10
+5,Binatone Standing Fan,Home Appliances,45000.00,30
+6,Scanfrost Microwave,Home Appliances,98000.00,15
+7,Nexus 200L Fridge,Home Appliances,320000.00,8
+8,Ankara Fabric (6 yards),Fashion,15500.00,80
+9,Men's Kaftan Set,Fashion,38000.00,40
+10,Ladies Handbag (Leather),Fashion,22000.00,35
+11,Golden Penny Semovita 10kg,Groceries,14200.00,100
+12,Mama Gold Rice 50kg,Groceries,87000.00,45
+13,Power Oil 5L,Groceries,16800.00,70
+14,Peak Milk Refill 850g,Groceries,9500.00,120
+15,Dangote Spaghetti (carton),Groceries,13500.00,90
+16,LG Washing Machine 7kg,Home Appliances,410000.00,6
+17,Children's School Bag,Fashion,12500.00,50

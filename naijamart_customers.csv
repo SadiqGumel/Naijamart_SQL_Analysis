@@ -1,0 +1,16 @@
+customer_id,full_name,email,phone,city,state,signup_date
+1,Adaeze Okafor,adaeze.okafor@example.com,08031112222,Ikeja,Lagos,2025-01-15
+2,Bolaji Adewale,bolaji.adewale@example.com,08052223333,Lekki,Lagos,2025-02-03
+3,Chinedu Eze,chinedu.eze@example.com,07063334444,Enugu,Enugu,2025-02-20
+4,Damilola Ogunleye,dami.ogunleye@example.com,08094445555,Ibadan,Oyo,2025-03-08
+5,Efe Oghenekaro,efe.oghene@example.com,08125556666,Warri,Delta,2025-03-25
+6,Fatima Bello,fatima.bello@example.com,07036667777,Kano,Kano,2025-04-11
+7,Gbenga Salami,gbenga.salami@example.com,08167778888,Abeokuta,Ogun,2025-04-29
+8,Hauwa Abubakar,hauwa.abubakar@example.com,09018889999,Abuja,FCT,2025-05-14
+9,Ifeoma Nwosu,ifeoma.nwosu@example.com,08149990000,Onitsha,Anambra,2025-06-02
+10,Jide Balogun,jide.balogun@example.com,07050001111,Surulere,Lagos,2025-06-21
+11,Kemi Adeyemi,kemi.adeyemi@example.com,08181112223,Port Harcourt,Rivers,2025-07-09
+12,Lanre Oshin,lanre.oshin@example.com,08022223334,Yaba,Lagos,2025-08-01
+13,Maryam Sani,maryam.sani@example.com,07033334445,Kaduna,Kaduna,2025-08-19
+14,Nkechi Obi,nkechi.obi@example.com,09064445556,Owerri,Imo,2025-09-05
+15,Tunde Bakare,tunde.bakare@example.com,08195556667,Ajah,Lagos,2025-09-27
